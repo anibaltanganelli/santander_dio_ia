@@ -1,5 +1,5 @@
 # santander_dio_ia
-Introdução: Para o desafio foi solicitado o desenvolvimento da IA generativa em um diferente contexto. Para isso, utilizei diferentes recursos como a inteligência artificial Bing para a criação do contexto, o Mysql para o desenvolvimento do banco de dados, Colahb para o desenvolvimento em python além do Google Docs para armazenamento do banco em CSV. O desenvolvimento ocorreu comforme descrito abaixo.
+Introdução: Para o desafio foi solicitado o desenvolvimento da IA generativa em um diferente contexto. Para isso, utilizei diferentes recursos como a inteligência artificial Bing para a criação do contexto, o Mysql para o desenvolvimento do banco de dados, Colab para o desenvolvimento em python além do Google Docs para armazenamento do banco em CSV. O desenvolvimento ocorreu conforme descrito abaixo.
 
 Contexto:
 Criação da empresa
